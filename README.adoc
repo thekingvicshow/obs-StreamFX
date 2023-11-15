@@ -53,6 +53,6 @@ Licensed under link:https://github.com/Xaymar/obs-StreamFX/blob/root/LICENSE[GPL
 |link:https://www.qt.io/[Qt 6.x]
 |link:https://www.qt.io/download-open-source[(L)GPL-3.0 (or later)]
 |link:https://www.qt.io/[The Qt Company], and open source contributors
-
-
 |=================
+
+
